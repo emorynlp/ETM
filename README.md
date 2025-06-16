@@ -17,7 +17,7 @@ To run this evaluation you need gold and predicted txt files. Examples of these 
 ### Install & Run
 
 First, download the database folders for [spider](https://drive.usercontent.google.com/download?id=1iRDVHLr4mX2wQKSgA9J8Pire73Jahh0m&export=download&authuser=0) (dev and test), [cosql](https://drive.usercontent.google.com/download?id=1Y3ydpFiQQ3FC0bzdfy3groV95O_f1nXF&export=download&authuser=0) (only dev), and/or [bird](https://bird-bench.oss-cn-beijing.aliyuncs.com/dev.zip) (dev).
-Save the database folders in their respective database folder ([spider_dev/database](spider_dev/database/), [spider_test/database](spider_test/database/), [cosql_dev/database](cosql_dev/database/), [bird_dev/database](bird_dev/database/))
+Save the database folders in their respective database folder (spider_dev/database/, spider_test/database/, cosql_dev/database/, bird_dev/database/)
 
 Then, create a conda environment:
 
