@@ -1,0 +1,5 @@
+sqlglot==26.6.0
+nltk==3.9.1
+networkx==3.4.2
+sqlparse==0.5.3
+func_timeout==4.3.5
